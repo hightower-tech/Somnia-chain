@@ -33,7 +33,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-repo/somnia-validator-bot.git
+git clone https://github.com/somnia-validator-bot.git
 cd somnia-validator-bot
 ```
 
