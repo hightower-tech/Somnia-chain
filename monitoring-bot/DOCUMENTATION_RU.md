@@ -88,7 +88,7 @@ Somnia Validator Monitor Bot - это Telegram-бот для мониторин�
 ### Шаги установки
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/your-repo/somnia-validator-bot.git
+git clone https://github.com/somnia-validator-bot.git
 cd somnia-validator-bot
 
 # Установить зависимости
